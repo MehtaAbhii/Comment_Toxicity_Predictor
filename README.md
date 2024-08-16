@@ -1,4 +1,4 @@
-# Comment_Toxicity_Predicto# Comment Toxicity Predictor
+# Comment Toxicity Predictor
 
 ## Project Overview
 
