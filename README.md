@@ -13,7 +13,7 @@ This project implements a machine learning model to predict the toxicity of onli
 - Predicts toxicity levels of text comments.
 - Supports multiple toxicity categories (e.g., severe toxicity, obscenity, threat, insult, identity attack)
 - Provides a confidence score for each prediction
-- [Add any other key features]
+- Accuracy of the model is above 60%.
 
 ## Installation
 
