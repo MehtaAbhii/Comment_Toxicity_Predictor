@@ -1,6 +1,6 @@
 # Comment Toxicity Predictor
 
-## Implementation
+## Results:
 ![Output results:](Assets/image.png)
 
 
