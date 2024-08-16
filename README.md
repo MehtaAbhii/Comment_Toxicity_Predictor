@@ -1,5 +1,9 @@
 # Comment Toxicity Predictor
 
+## Implementation
+![Output results:](Assets/image.png)
+
+
 ## Project Overview
 
 This project implements a machine learning model to predict the toxicity of online comments. It aims to help moderate online discussions by automatically flagging potentially harmful or offensive content.
